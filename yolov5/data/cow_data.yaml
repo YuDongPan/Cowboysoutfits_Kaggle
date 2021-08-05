@@ -1,0 +1,8 @@
+# Custom data for safety helmet
+# train and val data as 1) directory: path/images/, 2) file: path/images.txt, or 3) list: [path1/images/, path2/images/]
+train: D:\PycharmProjects\Cowboyoutfit_Kaggle\dataset\cow_yolo_dataset\score\images\train
+val: D:\PycharmProjects\Cowboyoutfit_Kaggle\dataset\cow_yolo_dataset\score\images\val
+# number of classes
+nc: 5
+# class names
+names: ["belt", "sunglasses", "boot", "cowboy_hat", "jacket"]
