@@ -31,9 +31,9 @@ This is source code for the Kaggle Competition-Cowboyoutfits
 
    command:
    
-   a)> python train.py --data data/cow_data.yaml --cfg models/cow_yolov5s.yaml --weights weights/yolov5s.pt --batch-size 4 --epochs 100(under command line)
+   a)`python train.py --data data/cow_data.yaml --cfg models/cow_yolov5s.yaml --weights weights/yolov5s.pt --batch-size 4 --epochs 100(under command line)`
    
-   b)> %run train.py --data data/cow_data.yaml --cfg models/cow_yolov5s.yaml --weights weights/yolov5s.pt --batch-size 4 --epochs 100(under jupyter notebook)
+   b)`%run train.py --data data/cow_data.yaml --cfg models/cow_yolov5s.yaml --weights weights/yolov5s.pt --batch-size 4 --epochs 100(under jupyter notebook)`
    
 6、detecting/predicting:
 
