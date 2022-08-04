@@ -1,7 +1,7 @@
 # Cowboysoutfits_Kaggle
 This is source code for the Kaggle Competition-Cowboyoutfits
 
-running environment:
+# running environment:
 
 1、linux operating system
 
@@ -11,7 +11,7 @@ running environment:
 
 4、Python 3.7.0
 
-Operation Steps:
+# Operation Steps:
 
 1、install tools package pycocotools
 
